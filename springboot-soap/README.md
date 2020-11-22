@@ -16,3 +16,10 @@
 - Improving the DeleteCourseDetailsRequest - Using an Enum for Status
 - Exception Handling and SOAP Fault Responses
 - Implementing Security for SOAP Web Services with WS Security
+
+# Use
+- Java 8
+- Eclipse
+- Maven
+- Embedded Tomcat
+- Wizdler Chrome Plugin
